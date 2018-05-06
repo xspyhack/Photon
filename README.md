@@ -1,3 +1,5 @@
 # Photon
 
-A simple video editor.
+A simple video editor written in Swift.
+
+
